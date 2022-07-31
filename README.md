@@ -38,4 +38,7 @@ outputFile.txt
 ![Screenshot (1811)](https://user-images.githubusercontent.com/66181120/182021818-d51b68d8-44bc-44c0-b31c-ee502aa93a21.png)
 
 
+![Screenshot (1814)](https://user-images.githubusercontent.com/66181120/182022046-948e75ef-1cb9-4741-8962-17e723ab817f.png)
+
+
 Result: This project is just an implementation of Huffman coding, it is not as efficient as the compression algorithm used currently to compress files.
