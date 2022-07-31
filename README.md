@@ -9,8 +9,9 @@ This project supports two functions:
 1) Encode: Compresses input file passed.
 2) Decode: Decompresses Huffman coded file passed back to its original file.
 
-How to run this project?
-To run this project you need to create an executable file. You can follow the steps given below:
+
+To run this project you need to create an executable file. 
+You can follow the steps given below:
 
 1) For compressing:
 
